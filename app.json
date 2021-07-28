@@ -25,10 +25,12 @@
       "OWNER_ID": {
         "description": "Enter Your Telegram id",
         "value": ""
+        "required": false
       },
       "INSTAGRAM_USERNAME": {
         "description": "Enter your Instagram Username without @ , Example: samantharuthprabhuoffl",
         "value": ""
+         "required": false
       },
       "INSTA_SESSIONFILE_ID": {
         "description": "Read README in GitHub",
